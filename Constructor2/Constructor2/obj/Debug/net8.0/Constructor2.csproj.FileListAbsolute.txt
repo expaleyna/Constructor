@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\bin\Debug\net8.0\Constructor2.exe
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\bin\Debug\net8.0\Constructor2.deps.json
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\bin\Debug\net8.0\Constructor2.runtimeconfig.json
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\bin\Debug\net8.0\Constructor2.dll
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\bin\Debug\net8.0\Constructor2.pdb
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\obj\Debug\net8.0\Constructor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\obj\Debug\net8.0\Constructor2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\obj\Debug\net8.0\Constructor2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\obj\Debug\net8.0\Constructor2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\obj\Debug\net8.0\Constructor2.dll
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\obj\Debug\net8.0\refint\Constructor2.dll
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\obj\Debug\net8.0\Constructor2.pdb
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\obj\Debug\net8.0\Constructor2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Constructor2\Constructor2\obj\Debug\net8.0\ref\Constructor2.dll
